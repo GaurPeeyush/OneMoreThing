@@ -14,4 +14,7 @@ In the if _name_ == "_main_" block, the script:
 3. Creates the particles.
 4. Runs the simulation to obtain the positions of the particles over time.
 5. Animates the simulation using the particle positions.
-6. The code uses the numpy library for efficient numerical computations and the matplotlib library for visualizing the results. The Intel oneMKL and oneDNN libraries optimize the performance of these operations on Intel hardware, although the code does not explicitly invoke oneAPI components
+6. The code uses the numpy library for efficient numerical computations and the matplotlib library for visualizing the results. The Intel oneMKL and oneDNN libraries optimize the performance of these operations on Intel hardware, although the code does not explicitly invoke oneAPI components<br><br>
+![1](https://user-images.githubusercontent.com/81735768/225823583-1a81e763-427f-4e85-9380-8f24066c28e9.jpg)<br><br>
+![2](https://user-images.githubusercontent.com/81735768/225823595-d5a10161-851a-40f7-9221-42d1d974bdb3.jpg)<br><br>
+![3](https://user-images.githubusercontent.com/81735768/225823611-4077fe13-7f01-412c-980c-3d2e7cc2ef09.jpg)
